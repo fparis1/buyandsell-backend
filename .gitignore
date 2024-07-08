@@ -1,6 +1,6 @@
-target
-.mvn
-.idea
+target/
+.mvn/
+.idea/
 authentication.iml
 mvnw.cmd
 mvnw
